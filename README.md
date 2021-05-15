@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aykut-Kafali
+- 👀 I’m interested in developing (web)-apps and also deploying stuff
+- 📫 How to reach me -> me@aykutkafali.com
